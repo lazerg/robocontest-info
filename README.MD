@@ -1,12 +1,22 @@
-### [Robocontest.uz](https://robocontest.uz)
+![logo](./docs/robocontest.png)
 
-## Overview
-Robocontest.uz is a platform designed for competitive algorithm solving and hosting programming olympiads. It provides a space for participants to showcase their problem-solving skills, engage in coding competitions, and compete against fellow programmers.
+[Robocontest.uz](https://robocontest.uz)
+----------------------------------------
 
-## Technical details
-The platform is built on a stack consisting of Laravel, Node.js, Docker, RabbitMQ, and Redis. These technologies work together to create a robust and scalable system that facilitates the smooth running of algorithmic competitions. 
+### 🧩 Overview
 
-## Supported Compilers
+Robocontest.uz is a platform designed for competitive algorithm solving and hosting programming olympiads. It provides a
+space for participants to showcase their problem-solving skills, engage in coding competitions, and compete against
+fellow programmers.
+
+### 💾 Technical details
+
+
+The platform is built on a stack consisting of Laravel, Node.js, Docker, RabbitMQ, and Redis. These technologies work
+together to create a robust and scalable system that facilitates the smooth running of algorithmic competitions.
+
+### 📦 Supported languages
+
 Robocontest.uz supports a wide range of programming languages and compilers, including:
 
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -31,4 +41,14 @@ Robocontest.uz supports a wide range of programming languages and compilers, inc
 - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 - [TypeScript](https://en.wikipedia.org/wiki/TypeScript)
 
-These compilers enable participants to write and submit code in their preferred programming language, ensuring a diverse and inclusive environment for algorithmic competitions.
+These compilers enable participants to write and submit code in their preferred programming language, ensuring a diverse
+and inclusive environment for algorithmic competitions.
+
+### 📞 Contacts
+
+- [Lazizbek Ergashev](https://t.me/lazizbek_ergashev)
+- lazerg2@gmail.com
+- +998936268547
+
+### 📝 License
+![license](./docs/guvohnoma.jpg)
